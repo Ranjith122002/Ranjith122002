@@ -19,6 +19,7 @@
 ###
 
 <h1 align="center">hey there 👋  I'm Ranjith 
+<div align="center"> <a href="https://www.linkedin.com/in/ranjith-r-959b30239/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" /> </a>
 👨‍💻 Passionate Python Developer | AI & Web Development Enthusiast  
 🚀 Interested in Full Stack Development, Cloud Technologies
 </h1>
@@ -49,4 +50,4 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-### this is the current make changes and give code to paste 
+### 
