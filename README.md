@@ -37,6 +37,7 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,java,mysql,git,github,docker,kubernetes,firebase,aws,vscode" /> </p>
 
 ###
 
@@ -59,6 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
+
 
 
 ###
