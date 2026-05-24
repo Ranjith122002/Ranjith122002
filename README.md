@@ -18,7 +18,10 @@
 
 ###
 
-<h1 align="center">hey there 👋  I'm Ranjith </h1>
+<h1 align="center">hey there 👋  I'm Ranjith 
+👨‍💻 Passionate Python Developer | AI & Web Development Enthusiast  
+🚀 Interested in Full Stack Development, Cloud Technologies
+</h1>
 
 ###
 
