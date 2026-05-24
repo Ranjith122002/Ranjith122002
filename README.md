@@ -22,7 +22,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me
+
+- 🔭 I’m currently working on AI and Web Development Projects
+- 🌱 I’m currently learning Advanced Python, Flask, Docker, and Microservices
+- 👯 I’m looking to collaborate on Open Source and Python Projects
+- 💬 Ask me about Python, Flask, AI Projects, and Web Development
+- ⚡ In my free time I build projects, learn new technologies, and explore tech trends
+  </h3>
 
 ###
 
