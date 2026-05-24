@@ -37,7 +37,7 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,java,mysql,git,github,docker,kubernetes,firebase,aws,vscode" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,flask,html,js,mysql,git,github,docker,kubernetes,firebase,aws,vscode,ansible,jenkins" /> </p>
 
 ###
 
