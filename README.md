@@ -50,3 +50,21 @@
 </div>
 
 ### 
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+###
+
+<div align="center">
+
+  <a href="https://github.com/YOUR_USERNAME/vehicle-rental-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=vehicle-rental-management-system&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME/AI-Chess-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AI-Chess-Bot&theme=tokyonight" />
+  </a>
+
+</div>
+```
+
